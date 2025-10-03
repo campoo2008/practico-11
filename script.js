@@ -26,6 +26,14 @@ const pokemones = [
     hp_total: 95,
     evolución: false,
   },
+  {
+    nombre: "Pogo",
+    nivel: 30,
+    tipo: ["eléctrico"], 
+    hp: 70,
+    hp_total: 70,
+    evolución: false,
+  },
 ];
 
 const pokemon = {
