@@ -27,11 +27,11 @@ const pokemones = [
     evolución: false,
   },
   {
-    nombre: "Bigshark",
-    nivel: 15,
-    tipo: ["agua"],
-    hp: 95,
-    hp_total: 95,
+    nombre: "Pogo",
+    nivel: 30,
+    tipo: ["eléctrico"], 
+    hp: 70,
+    hp_total: 70,
     evolución: false,
   },
 ];
