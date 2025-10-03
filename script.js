@@ -26,6 +26,14 @@ const pokemones = [
     hp_total: 95,
     evolución: false,
   },
+  {
+    nombre: "Bigshark",
+    nivel: 15,
+    tipo: ["agua"],
+    hp: 95,
+    hp_total: 95,
+    evolución: false,
+  },
 ];
 
 const pokemon = {
@@ -37,6 +45,7 @@ const pokemon = {
   hp_total: Number,
   evolución: Boolean,
 };
+
 
 // --- MENÚ PRINCIPAL ---
 let opcion;
