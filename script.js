@@ -46,6 +46,7 @@ const pokemon = {
   evolución: Boolean,
 };
 
+
 // --- MENÚ PRINCIPAL ---
 let opcion;
 do {
